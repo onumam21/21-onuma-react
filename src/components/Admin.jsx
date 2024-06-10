@@ -10,33 +10,7 @@ function Admin({
   setLastName,
   setPosition,
 }) {
-  // const [employees, setEmployees] = useState([]);
-  // const [firstName, setFirstName] = useState("");
-  // const [lastName, setLastName] = useState("");
-  // const [position, setPosition] = useState("");
-
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-
-  //   const newEmployee = {
-  //     firstName,
-  //     lastName,
-  //     position,
-  //   };
-
-  //   setEmployees([...employees, newEmployee]);
-
-  //   setFirstName("");
-  //   setLastName("");
-  //   setPosition("");
-  // };
-
-  // const deleteEmployee = (index) => {
-  //   const updatedEmployees = [...employees];
-  //   updatedEmployees.splice(index, 1);
-  //   setEmployees(updatedEmployees);
-  // };
-
+  
   return (
 <div className="p-4">
   <form
