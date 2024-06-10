@@ -8,13 +8,13 @@ const Home = () => {
       <div className="flex justify-around w-full max-w-lg mb-6">
         <Link
           to="/User"
-          className="text-xl text-[#DC5F00] border-2 border-[#DC5F00] p-2"
+          className="text-xl text-[##987070] border-2 border-[##987070] p-2"
         >
           User Home Sector
         </Link>
         <Link
           to="/Admin"
-          className="text-xl text-[#DC5F00] border-2 border-[#DC5F00] p-2"
+          className="text-xl text-[##987070] border-2 border-[##987070] p-2"
         >
           Admin Home Sector
         </Link>
